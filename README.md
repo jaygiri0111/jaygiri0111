@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width="900" height="300" src="my photo banner/my photo.png" alt="my banner">
+<img width="900" height="290" src="my photo banner/my photo.png" alt="my banner">
 
 </p>
 <h1 align="center">Hi 👋, I'm Jay prakash Giri</h1>
