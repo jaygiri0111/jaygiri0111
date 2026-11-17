@@ -26,38 +26,6 @@ I enjoy turning ideas into practical AI applications, exploring **RAG architectu
 
 My work and learning revolve around Python, LangChain, LangGraph, FastAPI, vector databases, and backend engineering. I'm particularly interested in building AI systems that are useful, reliable, and scalable.
 
-### 🚀 Professional Journey
-
-<table>
-  <tr>
-    <td valign="top" align="center" width="45">
-      <b>🟢</b><br />
-      │
-    </td>
-    <td valign="top">
-      <h3>Systems Engineer | Tata Consultancy Services</h3>
-      <b>Generative AI</b> · Bhubaneswar, India · Present
-      <p>
-        Working in the Generative AI domain, exploring LLM-powered applications,
-        RAG architectures, and agentic AI workflows.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" align="center" width="45">
-      <b>🔵</b>
-    </td>
-    <td valign="top">
-      <h3>Programmer Analyst Trainee | Cognizant</h3>
-      SAP ABAP · Bengaluru, India · 2025–2026
-      <p>
-        Worked in SAP ABAP and gained experience in enterprise application
-        development and SAP backend technologies.
-      </p>
-    </td>
-  </tr>
-</table>
-
 ### 🛠️ The Engineering Stack
 
 <table>
@@ -111,7 +79,39 @@ My work and learning revolve around Python, LangChain, LangGraph, FastAPI, vecto
   </tr>
 </table>
 
-## Selected Projects
+### 🚀 Professional Journey
+
+<table>
+  <tr>
+    <td valign="top" align="center" width="45">
+      <b>🟢</b><br />
+      │
+    </td>
+    <td valign="top">
+      <h3>Systems Engineer | Tata Consultancy Services</h3>
+      <b>Generative AI</b> · Bhubaneswar, India · Present
+      <p>
+        Working in the Generative AI domain, exploring LLM-powered applications,
+        RAG architectures, and agentic AI workflows.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center" width="45">
+      <b>🔵</b>
+    </td>
+    <td valign="top">
+      <h3>Programmer Analyst Trainee | Cognizant</h3>
+      SAP ABAP · Bengaluru, India · 2025–2026
+      <p>
+        Worked in SAP ABAP and gained experience in enterprise application
+        development and SAP backend technologies.
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Featured Projects
 
 ### [Medical AI Chatbot](https://github.com/jaygiri0111/Medical-AI-Chatbot)
 A document-grounded medical information chatbot built as an exploration of conversational AI and retrieval-based question answering.
