@@ -18,13 +18,27 @@
 
 ***I teach machines to be smarter, but they still haven't figured out how to fix my bugs. 😄***
 
-I'm Jay Prakash Giri, a **Generative AI professional at TCS** interested in turning LLM capabilities into useful, dependable applications.
+I'm Jay Prakash Giri, a **Systems Engineer at Tata Consultancy Services (TCS)**, working in the Generative AI domain.
 
-| | |
-|---|---|
-| **Focus** | RAG systems · Agentic AI · LLM applications |
-| **Building with** | Python · LangGraph · FastAPI |
-| **Exploring** | AI workflows · Retrieval quality · Backend engineering |
+I enjoy building practical AI-powered applications, with a focus on **LLM applications, Retrieval-Augmented Generation (RAG), and Agentic AI**.
+
+My technical interests include **Python, LangChain, LangGraph, FastAPI, vector databases, and backend engineering**. I’m continuously exploring ways to turn emerging AI capabilities into reliable, useful products.
+
+Always learning. Always building. 🚀
+
+## 💼 Experience
+
+### Systems Engineer | Tata Consultancy Services (TCS)
+**Bhubaneswar, Odisha, India** · Present
+
+- Working in the Generative AI domain, with an interest in LLM-powered applications and AI-driven solutions.
+- Exploring RAG architectures, agentic AI workflows, and backend development.
+
+### Programmer Analyst Trainee | Cognizant
+**Bengaluru, Karnataka, India** · 2025–2026
+
+- Worked in the SAP ABAP domain, gaining experience in enterprise application development.
+- Built a foundation in SAP backend technologies and enterprise development practices.
 
 ## Technical Stack
 
