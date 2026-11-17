@@ -18,21 +18,50 @@
 
 ***I teach machines to be smarter, but they still haven't figured out how to fix my bugs. 😄***
 
-I'm Jay Prakash Giri, a **Generative AI professional at TCS**, focused on building practical AI-powered applications.
+I'm Jay Prakash Giri, a **Generative AI professional at TCS** interested in turning LLM capabilities into useful, dependable applications.
 
-My work and interests revolve around **RAG systems, AI agents, and backend development**, primarily using Python, LangGraph, and FastAPI.
+| | |
+|---|---|
+| **Focus** | RAG systems · Agentic AI · LLM applications |
+| **Building with** | Python · LangGraph · FastAPI |
+| **Exploring** | AI workflows · Retrieval quality · Backend engineering |
 
-Always learning. Always building. 🚀
 ## Technical Stack
 
-| Area | Technologies |
-|---|---|
-| **Generative AI** | RAG, LangChain, LangGraph, LLM applications, Langfuse, LangSmith |
-| **Backend** | Python, FastAPI, REST APIs |
-| **Vector Search** | Milvus, ChromaDB |
-| **Databases** | PostgreSQL, SQL, MySQL |
-| **Cloud & Tools** | Google Cloud Platform, Docker, Git, GitHub |
-| **Additional** | SAP ABAP, Java, C/C++, Pandas |
+<div align="center">
+
+### 🧠 Generative AI & LLM Engineering
+<img src="https://img.shields.io/badge/RAG-6B4EFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-2D6A4F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Langfuse-222222?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangSmith-222222?style=for-the-badge" />
+
+### ⚙️ Backend & Programming
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+### 🗄️ Data & Vector Search
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+### ☁️ Cloud, DevOps & Tools
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+### 🧩 Additional Technologies
+<img src="https://img.shields.io/badge/SAP%20ABAP-0FA3E2?style=for-the-badge&logo=sap&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+</div>
 
 ## Selected Projects
 
