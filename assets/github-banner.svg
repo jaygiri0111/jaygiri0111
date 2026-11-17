@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Jay Prakash Giri — Generative AI Engineer</title>
+  <desc id="desc">Minimal dark navy banner with a subtle violet-blue gradient and abstract connected nodes.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#6366f1" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#background)"/>
+  <circle cx="1000" cy="160" r="250" fill="url(#glow)"/>
+  <path d="M0 270 C240 230 390 330 620 270 S980 205 1200 245" fill="none" stroke="#64748b" stroke-opacity=".12" stroke-width="1"/>
+  <path d="M0 292 C260 252 430 340 670 286 S980 228 1200 266" fill="none" stroke="#64748b" stroke-opacity=".10" stroke-width="1"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="1.5" opacity=".55">
+    <path d="M900 92 L1000 142 L1092 82 M1000 142 L1070 226 L1150 172 M1000 142 L930 220"/>
+    <path d="M1092 82 L1150 172" opacity=".5"/>
+  </g>
+  <g fill="#a78bfa">
+    <circle cx="900" cy="92" r="4"/><circle cx="1000" cy="142" r="5"/>
+    <circle cx="1092" cy="82" r="4"/><circle cx="1070" cy="226" r="4"/>
+    <circle cx="1150" cy="172" r="3.5"/><circle cx="930" cy="220" r="3"/>
+  </g>
+  <rect x="72" y="72" width="4" height="154" rx="2" fill="url(#accent)"/>
+  <text x="104" y="128" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="43" font-weight="700" letter-spacing="-1">Jay Prakash Giri</text>
+  <text x="106" y="174" fill="#c4b5fd" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="600" letter-spacing=".4">Generative AI Engineer</text>
+  <text x="106" y="215" fill="#94a3b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" letter-spacing=".2">Agentic AI  ·  RAG Systems  ·  Backend Engineering</text>
+  <text x="106" y="264" fill="#64748b" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="2">DESIGNING • BUILDING • LEARNING</text>
+</svg>
