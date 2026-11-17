@@ -14,17 +14,15 @@
   </p>
 </div>
 
-## About
+## About Me
 
-I'm Jay Prakash Giri, a Generative AI professional at **Tata Consultancy Services (TCS)**, interested in building useful AI-powered applications and reliable backend systems.
+***I teach machines to be smarter, but they still haven't figured out how to fix my bugs. 😄***
 
-I work with Python and the LLM application ecosystem, with a focus on retrieval-augmented generation, agent workflows, API development, and the infrastructure that supports them. I enjoy taking ideas from experimentation to structured, maintainable software.
+I'm Jay Prakash Giri, a **Generative AI professional at TCS**, focused on building practical AI-powered applications.
 
-- **Currently exploring:** Agentic AI, LangGraph workflows, and RAG evaluation
-- **Building with:** Python, FastAPI, LangChain, vector databases, and PostgreSQL
-- **Also experienced with:** SAP ABAP and applied machine learning
-- **Contact:** [jaygiri0111@gmail.com](mailto:jaygiri0111@gmail.com)
+My work and interests revolve around **RAG systems, AI agents, and backend development**, primarily using Python, LangGraph, and FastAPI.
 
+Always learning. Always building. 🚀
 ## Technical Stack
 
 | Area | Technologies |
